@@ -1,4 +1,4 @@
-function randomScore(min, max) {
+/*function randomScore(min, max) {
     min = Math.ceil(0)
     max = Math.floor(100)
     return Math.floor(Math.random() * (max - min))
@@ -37,4 +37,4 @@ function getScore() {
     return scoreFinal
 }
 
-console.log(getScore(score))
+console.log(getScore(score))*/
